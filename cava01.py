@@ -19,8 +19,7 @@ with open('config.JSON') as config_file:
         data = json.load(config_file)
         pass
 
-
-
+ss
 SQLserver = data['SQLserver']
 Temperatura = data['Temperatura']
 Mensaje = data['Mensaje']
