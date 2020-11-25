@@ -1,4 +1,0 @@
-<!-- MODULO PARA TODO -->
-
-<h1>CAMBIO FINAL</h1>
-
