@@ -1,0 +1,25 @@
+{   "SQLserver":{
+    "direccion_IP_servidor": "18.210.24.164",
+    "nombre_de_Base_de_dato": "temperatura",
+    "nombre_de_usuario": "temperatura",
+    "password": "Anthony/*3600641"
+},
+    "Temperatura":{
+        "Sengundos": 3
+},
+    "Mensaje":{
+        "Telegran":{
+            "Link":"https://api.telegram.org/bot1209316197:AAE3i8CG5nHgYBhknLreseLm5qoE_M0FNnA/sendMessage?chat_id=-1001333510173&text="
+},
+    "Mensaje_Alerta": "Temperatura  en: ",
+    "Error": "ERROR",
+    "Generar_Alerta": "False",
+    "Alerta": "Temperatura en: ",
+    "Cava": 0,
+    "Zona": 2,
+    "Activar_alerta_o_desactivar": "False",
+    "Titulo_cava": "Cava 1: "
+    
+        
+    }
+}
