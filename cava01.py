@@ -79,7 +79,7 @@ def read_temp():
             if now <= Max or now >= Min:               
               Alerts.messange_error(Alerts.now, Alerts.simb, Alerts.cava, Alerts.zona, Alerts.msj)   #MENSAJE ERROR  
             else:
-              Alerts.messange(Alerts.now, Alerts.simb, Alerts.cava, Alerts.zona, Alerts.msj)   #MENSAJE HABITUAL   
+               Alerts.messange(Alerts.now, Alerts.simb, Alerts.cava, Alerts.zona, Alerts.msj)   #MENSAJE HABITUAL   
             
                 
       except IOError:
